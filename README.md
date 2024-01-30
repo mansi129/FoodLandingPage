@@ -4,6 +4,10 @@ I have create a Food landing page. Food Landing Page is a delightful and respons
 ## Demo
 Check out the live demo: [Food Landing Page Demo](http://127.0.0.1:5500/index.html)
 
+## Screenshot
+![screenshot](https://github.com/mansi129/FoodLandingPage.github.io/assets/68495518/c85fdcb2-7598-4b3e-b007-a580cc6321a4)
+
+
 ## Technologies Used
 - HTML5
 - CSS3
